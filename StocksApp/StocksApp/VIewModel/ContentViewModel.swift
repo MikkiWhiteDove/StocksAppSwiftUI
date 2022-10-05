@@ -22,7 +22,7 @@ final class ContentViewModel: ObservableObject {
     
     private var cancellables = Set<AnyCancellable>()
     
-    let APIKEY = "M8DZREA2JS4KG5NJ"
+    let APIKEY = "M8DZREA2JS36789"
     
     init() {
 //        loadAllSymbols()
