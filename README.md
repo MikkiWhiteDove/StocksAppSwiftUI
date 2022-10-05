@@ -1,4 +1,7 @@
 # StocksAppSwiftUI
 ---
-## Technology stack: SwiftUI, Combine, URLSession
+
+## Technology stack: SwiftUI, MVVM Combine, URLSession, CoreData.
+
 ---
+
